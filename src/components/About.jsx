@@ -25,25 +25,25 @@ const About = () => {
         <div className="border-2 m-auto shadow-2xl shadow-[#06e3f5] border-[#06e3f5] h-[47%] w-[90%] rounded-2xl lg:text-[19px] lg:p-2 lg:w-[50%] lg:mt-12">
           <span className="flex flex-col m-4">
             <p className="mb-2">
-              <span className="font-semibold">Name:</span> Abdul Kapoor
+              <span className="font-semibold">Name :</span> Abdul Kapoor
             </p>
             <p className="mb-2">
-              <span className="font-semibold">Age:</span> 21
+              <span className="font-semibold">Age :</span> 21
             </p>
             <p className="mb-2">
-              <span className="font-semibold">Phone:</span> +918680858275
+              <span className="font-semibold">Phone :</span> +918680858275
             </p>
             <p className="mb-2">
-              <span className="font-semibold">Email:</span> kapoorlocs@gmail.com
+              <span className="font-semibold">Email :</span> kapoorlocs@gmail.com
             </p>
             <p className="mb-2">
-              <span className="font-semibold">Experience:</span> Fresher
+              <span className="font-semibold">Experience :</span> Fresher
             </p>
             <p className="mb-2">
-              <span className="font-semibold">Country:</span> India
+              <span className="font-semibold">Country :</span> India
             </p>
             <p className="mb-2 text-center border-2 rounded-full">
-              <span className="font-semibold">Availability:</span> Full Time
+              <span className="font-semibold">Availability :</span> Full Time
             </p>
           </span>
         </div>
