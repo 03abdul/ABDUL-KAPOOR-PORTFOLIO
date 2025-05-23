@@ -19,7 +19,7 @@ const Landingpage = () => {
               alt="Image"
               className="rounded-full w-[230px] h-[230px] border-4 border-[#06e3f5] border-double p-1
                lg:border-5 lg:border-[#06e3f5] lg:border-double
-               lg:absolute lg:left-20 lg:w-[30%] lg:h-[65%] lg:mt-13 lg:p-1"
+               lg:absolute lg:left-20 lg:w-[30%] lg:h-[70%] lg:mt-13 lg:p-1"
             />
           </div>
         </section>
