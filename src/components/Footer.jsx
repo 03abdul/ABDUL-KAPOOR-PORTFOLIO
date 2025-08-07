@@ -6,15 +6,15 @@ const Footer = () => {
       <div className="text-[14px] pt-4 text-center text-black lg:text-[17px] font-bold">© 2025 Abdul Kapoor. All rights reserved.</div>
 
         <div className="text-center mt-1 text-black text-[13px] lg:text-[17px] lg:mt-3 font-bold">
-          <a href="mailto:kapoorlocs@gmail.com" target="_blank" className="mr-1" >
+          <a href="mailto:kapoorlocs@gmail.com" target="_blank" className="mr-1 hover:text-white" >
             kapoorlocs@gmail.com
           </a>
           |
-          <a href="https://github.com/03abdul/" target="_blank" className="mr-1 ml-1">
+          <a href="https://github.com/03abdul/" target="_blank" className="mr-1 ml-1 hover:text-white">
             GitHub
           </a>
           |
-          <a href="https://www.linkedin.com/in/abdul-kapoor/" target="_blank" className="ml-1">
+          <a href="https://www.linkedin.com/in/abdul-kapoor/" target="_blank" className="ml-1 hover:text-white">
             LinkedIn
           </a>
         </div>

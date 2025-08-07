@@ -9,8 +9,8 @@ html, body, #root {
   padding: 0;
   height: 100%;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
-
 
 section {
   scroll-margin-top: 80px; 

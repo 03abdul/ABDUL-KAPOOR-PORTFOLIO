@@ -86,7 +86,7 @@ const Skills = () => {
         <section className="grid grid-cols-3 gap-1 m-4 mt-8">
             <div className="border-2 border-[#06e3f5] flex">
                 <span className="border-l-2 ml-1.5 text-[#59c4b7]"></span>
-                <span className="text-white text-[15px] ml-1">Creative Thinking</span>
+                <span className="text-white text-[15px] ml-1">Team Work</span>
             </div>
 
             <div className="border-2 border-[#06e3f5] mt-5 flex">
@@ -96,7 +96,7 @@ const Skills = () => {
 
             <div className="border-2 border-[#06e3f5] mt-10 flex">
             <span className="border-l-2 ml-1.5 text-[#59c4b7]"></span>
-            <span className="text-white text-[15px] ml-1">Team Work</span>
+            <span className="text-white text-[15px] ml-1">Creative Thinking</span>
             </div>
         </section>
       </section>
