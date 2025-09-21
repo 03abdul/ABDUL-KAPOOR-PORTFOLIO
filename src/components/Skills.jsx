@@ -87,22 +87,22 @@ const Skills = () => {
 
           <div className="flex items-center">
             <div className="flex flex-col items-center lg:mr-5">
-              <SiExpress className="text-[#06e3f5] text-[25px] lg:text-[40px]" />
-              <p className="text-[8px] text-white lg:text-[9px] lg:ml-1">EXPRESSJS</p>
+              <SiExpress className="text-[#06e3f5] text-[20px] lg:text-[40px]" />
+              <p className="text-[7px] text-white lg:text-[9px] lg:ml-1">EXPRESSJS</p>
             </div>
             <div className="w-[70%] h-1 bg-white ml-2 rounded-full lg:h-1.5">
-              <div className="w-[80%] h-1 bg-teal-500 rounded-full lg:h-1.5"></div>
+              <div className="w-[70%] h-1 bg-teal-500 rounded-full lg:h-1.5"></div>
             </div>
             <h6 className="ml-3 text-[11px] text-white px-2.5 py-1.5 rounded-[8px] font-bold bg-amber-500 lg:text-[16px] lg:ml-6">70</h6>
           </div>
 
           <div className="flex items-center">
             <div className="flex flex-col items-center lg:mr-5">
-              <SiMongodb className="text-[#06e3f5] text-[25px] lg:text-[40px]" />
-              <p className="text-[8px] text-white lg:text-[9px] lg:ml-1">MONGODB</p>
+              <SiMongodb className="text-[#06e3f5] text-[20px] lg:text-[40px]" />
+              <p className="text-[7px] text-white lg:text-[9px] lg:ml-1">MONGODB</p>
             </div>
             <div className="w-[70%] h-1 bg-white ml-1.5 rounded-full lg:h-1.5">
-              <div className="w-[80%] h-1 bg-green-500 rounded-full lg:h-1.5"></div>
+              <div className="w-[60%] h-1 bg-green-500 rounded-full lg:h-1.5"></div>
             </div>
             <h6 className="ml-3 text-[11px] text-white px-2.5 py-1.5 rounded-[8px] font-bold bg-amber-500 lg:text-[16px] lg:ml-6">60</h6>
           </div>
