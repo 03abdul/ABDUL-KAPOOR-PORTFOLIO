@@ -114,7 +114,9 @@ const Tasks = () => {
         <div className="mt-[5%] lg:pb-7">
           <div className="text-white text-[18px] ml-5 lg:text-2xl lg:ml-[9%]">Vikieme Project <a href="https://www.vikieme.in/" target="_blank" className="text-gray-900 float-end mr-[20px] bg-slate-500 pl-3 pr-3 rounded-2xl hover:scale-105 hover:bg-gray-200 lg:mr-[15%] lg:px-5 lg:py-2 lg:rounded-3xl">Click</a></div>
           <div className="text-white text-[18px] ml-5 mt-5 lg:text-2xl lg:ml-[9%] lg:mt-11">Moon Interior Project <a href="https://www.mooninteriors.in/" target="_blank" className="text-gray-900 float-end mr-[20px] bg-slate-500 pl-3 pr-3 rounded-2xl hover:scale-105 hover:bg-gray-200 lg:mr-[15%] lg:px-5 lg:py-2 lg:rounded-3xl">Click</a></div>
-          <div className="text-white text-[18px] ml-5 mt-5 pb-5 lg:text-2xl lg:ml-[9%] lg:mt-11">Mass Architect Project <a href="https://www.massarchitectdesignanddevelopers.com" target="_blank" className="text-gray-900 float-end mr-[20px] bg-slate-500 pl-3 pr-3 rounded-2xl hover:scale-105 hover:bg-gray-200 lg:mr-[15%] lg:px-5 lg:py-2 lg:rounded-3xl">Click</a></div>
+          <div className="text-white text-[18px] ml-5 mt-5 lg:text-2xl lg:ml-[9%] lg:mt-11">Mass Architect Project <a href="https://www.massarchitectdesignanddevelopers.com" target="_blank" className="text-gray-900 float-end mr-[20px] bg-slate-500 pl-3 pr-3 rounded-2xl hover:scale-105 hover:bg-gray-200 lg:mr-[15%] lg:px-5 lg:py-2 lg:rounded-3xl">Click</a></div>
+          <div className="text-white text-[18px] ml-5 mt-5 pb-5 lg:text-2xl lg:ml-[9%] lg:mt-11">Conference Website <a href="https://www.icetmcp2026.com/" target="_blank" className="text-gray-900 float-end mr-[20px] bg-slate-500 pl-3 pr-3 rounded-2xl hover:scale-105 hover:bg-gray-200 lg:mr-[15%] lg:px-5 lg:py-2 lg:rounded-3xl">Click</a></div>
+
 
         </div>
       </div>

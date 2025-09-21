@@ -1,6 +1,6 @@
 import React from "react";
 import pht from "../assets/pht.jpg";
-import resume from "../assets/Abdul_resume.pdf";
+import resume from "../assets/Abdul_Kapoor_Resume.pdf";
 import { FaLinkedinIn } from "react-icons/fa";
 import { IoLogoGithub } from "react-icons/io";
 import { IoIosMail } from "react-icons/io";
@@ -30,8 +30,7 @@ const Landingpage = () => {
             </span>
             <br />
             <span className="text-1xl lg:text-[22px] lg:leading-10">
-              I'm a <span className="text-[#06e3f5]">Frontend </span> Web
-              Developer.
+              I'm a <span className="text-[#06e3f5]">Web Developer. </span>
             </span>
             <br />
             <span className="block mr-1 text-[14px] lg:text-[19px] lg:hidden">
@@ -47,7 +46,7 @@ const Landingpage = () => {
             <span className="flex mt-1 justify-around lg:absolute lg:left-0">
               <a
                 href={resume}
-                download="Resume_Of_Abdul"
+                download="Abdul Kapoor Resume"
                 className="flex text-[11px] border-1 border-[#06e3f5] text-[#06e3f5] p-2 rounded-3xl hover:bg-[#06e1f585] hover:text-white lg:p-2.5"
               >
                 DOWNLOAD CV <GoDownload className="text-[15px] ml-2" />

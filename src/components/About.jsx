@@ -10,13 +10,13 @@ const About = () => {
         <div className="m-4 text-center lg:text-[19px] lg:mt-10 lg:px-7">
           Hi, I'm
           <span className="text-[#06e3f5] font-semibold"> Abdul Kapoor, </span>
-          a passionate Frontend Web Developer with a creative mindset
+          a passionate Web Developer with a creative mindset
           as like as Developer and with very passionate and deticated to my work
           and I have acquired the Skills necessary to build great and premium
           websites.
         </div>
         <div className="hidden lg:m-4 lg:text-center lg:text-[19px] lg:block lg:px-7">
-          I have hands-on experience in HTML, CSS, JavaScript, and frameworks like React, along with tools such as Git and VS Code.
+          I have hands-on experience in HTML, CSS, JavaScript, and frameworks like React, and Backend technologies along with tools such as Git and VS Code.
            I’m constantly learning and exploring modern development. 
           I value team collaboration, problem-solving, and pay close attention to design and user experience. 
           I’m eager to contribute to a growth-oriented company where I can build impactful web solutions while continuing to 
